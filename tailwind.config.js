@@ -1,7 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  purge: ['./public/**/*.html'],
-  content: [],
+  content: [
+    './public/index.html',
+  ],
   theme: {
     extend: {
       fontFamily: {
@@ -9,8 +10,10 @@ module.exports = {
       },
     },
     colors: {
-      'white': hsl(0, 0, 100),
-      'grey': hsl(212, 45, 89)
+      'white': '#ffffff',
+      'lightgrey': '#d6e2f0',
+      'darkgrey': '#7b879d',
+      'darkblue': '#1f3251'
     }
   },
   plugins: [],
