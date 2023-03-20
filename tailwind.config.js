@@ -16,5 +16,5 @@ module.exports = {
       'darkblue': '#1f3251'
     }
   },
-  plugins: [],
+  plugins: [require('prettier-plugin-tailwindcss')],
 }
