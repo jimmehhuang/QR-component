@@ -16,7 +16,7 @@ Welcome! This is my solution to the [QR code component challenge on Frontend Men
 
 ## Overview
 
-This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS, Vite, and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library. I discovered Vite as a more modern React tool so as not to slow my entire system with create-react-app. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
+This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library with great freedom of design compared to tools such as Bootstrap. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
 
 ### Screenshot
 
@@ -24,7 +24,7 @@ This is the first suggested project created for the Frontend Mentor challenges. 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/jimmehhuang/QR-component](https://github.com/jimmehhuang/QR-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -36,11 +36,10 @@ This is the first suggested project created for the Frontend Mentor challenges. 
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Vite](https://vitejs.dev/) - Frontend tooling
 
 ### What I learned
 
-Stepping back to fundamentals while using a tool that emphasizes mastery of said fundamentals was challenging because of 
+Stepping back to fundamentals while using a tool that emphasizes mastery of said fundamentals helped me reinforce some nearly-lost knowledge. Naturally I do not intend to construct static HTML pages for future projects, but remembering how exactly they function was good practice.
 
 Additionally, I mistakenly was attempting to run the static HTML page instead of going the route of npm run dev like I had noted in the package.json. The frustration of wondering why my styling changes weren't updating costed me some hours of productivity.
 
