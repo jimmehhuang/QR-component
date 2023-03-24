@@ -16,7 +16,7 @@ Welcome! This is my solution to the [QR code component challenge on Frontend Men
 
 ## Overview
 
-This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS, ViteJS, and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library with great freedom of design compared to tools such as Bootstrap. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
+This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS, ViteJS, and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library with great freedom of design compared to tools such as Bootstrap. ViteJS I have found to be a fast and convenient bundling tool for webpages. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
 
 ### Screenshot
 
