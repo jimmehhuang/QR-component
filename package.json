@@ -1,25 +1,25 @@
 {
-  "name": "qr-component-vanilla-html-tailwind-css",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.jsx",
+  "name": "qr-component-tailwindcss",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "start": "vite",
-    "preview": "vite preview --port 3000",
-    "dev": "tailwindcss build -i ./src/tailwind.css -o ./public/tailwind.css",
-    "build": "vite build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
-    "@vitejs/plugin-react": "3.1.0",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.2.0",
     "autoprefixer": "^10.4.14",
     "prettier": "^2.8.5",
     "prettier-plugin-tailwindcss": "^0.2.5",
     "tailwindcss": "^3.2.7"
-  },
-  "dependencies": {
-    "vite": "^4.2.1"
   }
 }

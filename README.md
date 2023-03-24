@@ -16,7 +16,7 @@ Welcome! This is my solution to the [QR code component challenge on Frontend Men
 
 ## Overview
 
-This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library with great freedom of design compared to tools such as Bootstrap. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
+This is the first suggested project created for the Frontend Mentor challenges. My goal for these challenges is to practice and improve my frontend skills using personal favored tools for projects. At present, the tools I am using to build projects are ReactJS, ViteJS, and TailwindCSS. Since completing bootcamp, I found Tailwind to be my personal favorite CSS library with great freedom of design compared to tools such as Bootstrap. As I complete Frontend challenges, I intend to reinforce fundamentals as well as get some good practice in for personal projects.
 
 ### Screenshot
 
@@ -25,7 +25,7 @@ This is the first suggested project created for the Frontend Mentor challenges. 
 ### Links
 
 - Solution URL: [https://github.com/jimmehhuang/QR-component](https://github.com/jimmehhuang/QR-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jimmehhuang.github.io/QR-component/](https://jimmehhuang.github.io/QR-component/)
 
 ## My process
 
@@ -36,6 +36,7 @@ This is the first suggested project created for the Frontend Mentor challenges. 
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Vite](https://vitejs.dev) - ViteJS bundling tool
 
 ### What I learned
 
